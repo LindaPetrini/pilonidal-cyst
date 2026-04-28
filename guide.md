@@ -1,260 +1,4 @@
-1. # Table of contents {#table-of-contents}
-
-[1\. Table of contents](#table-of-contents)
-
-[2\. Introduction](#introduction)
-
-[What is a pilonidal cyst](#what-is-a-pilonidal-cyst)
-
-[Why this guide](#why-this-guide)
-
-[My pilonidal cyst story](#my-pilonidal-cyst-story)
-
-[3\. Immediate help](#immediate-help)
-
-[If you are in a lot of pain right now](#if-you-are-in-a-lot-of-pain-right-now)
-
-[Manageable Pain: The Role of Antibiotics](#manageable-pain:-the-role-of-antibiotics)
-
-[Extreme Pain: When Lancing Becomes Necessary](#extreme-pain:-when-lancing-becomes-necessary)
-
-[Post-Procedure Care and Healing](#post-procedure-care-and-healing)
-
-[Looking Ahead: Long-Term Considerations](#looking-ahead:-long-term-considerations)
-
-[A Word of Advice](#a-word-of-advice)
-
-[4\. Pilonidal Cyst Terminology](#pilonidal-cyst-terminology)
-
-[Resources:](#resources:)
-
-[5\. Symptoms and Diagnosis](#symptoms-and-diagnosis)
-
-[Common Symptoms](#common-symptoms)
-
-[Identifying a Pilonidal Cyst](#identifying-a-pilonidal-cyst)
-
-[When to See a Doctor](#when-to-see-a-doctor)
-
-[Diagnosis Challenges](#diagnosis-challenges)
-
-[Community Support](#community-support)
-
-[6\. Causes and Risk Factors of Pilonidal Cysts](#causes-and-risk-factors-of-pilonidal-cysts)
-
-[Primary Causes](#primary-causes)
-
-[Risk Factors](#risk-factors)
-
-[Common Misconceptions](#common-misconceptions)
-
-[7\. Non Surgical Care](#non-surgical-care)
-
-[Initial Flare-up and Natural Remedies for Pilonidal Cysts](#initial-flare-up-and-natural-remedies-for-pilonidal-cysts)
-
-[Home Remedies and Natural Treatments](#home-remedies-and-natural-treatments)
-
-[Warm Compression Techniques](#warm-compression-techniques)
-
-[Sitz Baths](#sitz-baths)
-
-[Hygiene Practices](#hygiene-practices)
-
-[The "Reddit Protocol"](#the-"reddit-protocol")
-
-[Important Considerations](#important-considerations)
-
-[Managing an Inflamed and Draining Pilonidal Cyst](#managing-an-inflamed-and-draining-pilonidal-cyst)
-
-[The Role of Antibiotics in Pilonidal Cyst Treatment](#the-role-of-antibiotics-in-pilonidal-cyst-treatment)
-
-[Why Antibiotics Are Used](#why-antibiotics-are-used)
-
-[Types of Antibiotic Treatment](#types-of-antibiotic-treatment)
-
-[Effectiveness and Considerations](#effectiveness-and-considerations)
-
-[When to Consider Surgery](#when-to-consider-surgery)
-
-[8\. Surgical options](#surgical-options)
-
-[What types of surgeries are there?](#what-types-of-surgeries-are-there?)
-
-[Lancing](#lancing)
-
-[Drainage](#drainage)
-
-[Marsupialization](#marsupialization)
-
-[Laser](#laser)
-
-[EPiST](#epist)
-
-[SiLaT](#silat)
-
-[Pit Picking (also known as Bascom I)](#pit-picking-\(also-known-as-bascom-i\))
-
-[VAAPS](#vaaps)
-
-[Cleft Lift](#cleft-lift)
-
-[When is cleft lift recommended?](#when-is-cleft-lift-recommended?)
-
-[Limberg flap reconstruction](#limberg-flap-reconstruction)
-
-[Karydakis Flap procedure](#karydakis-flap-procedure)
-
-[Who are the most specialized surgeons?](#who-are-the-most-specialized-surgeons?)
-
-[US](#us)
-
-[Dr T Bascom \- Cleft Lift \- OR (Now Retired)](#dr-t-bascom---cleft-lift---or-\(now-retired\))
-
-[Dr Sternberg in CA](#dr-sternberg-in-ca)
-
-[Dr Immerman in WI](#dr-immerman-in-wi)
-
-[Dr Shrager and Dr Miller in NJ-Cleft lift/minimally invasive procedure](#dr-shrager-in-nj)
-
-[Dr Wadie \- Cleft Lift \- US, NC](#dr-wadie---cleft-lift---us,-nc)
-
-[Dr Clifford \- Cleft Lift \- US, Richmond VA](https://virginiacarepartners.com/physicians/profile/Clifford-L-Deal-MD)
-
-[Europe](#europe)
-
-[Dr. Zapotoczny \- Cleft lift \- Poland](#dr.-zapotoczny---cleft-lift---poland)
-
-[Germany:](#germany:)
-
-[Dr. Luigi Basso](#dr.-luigi-basso)
-
-[UK](#uk)
-
-[Emin Carapeti \- Cleft Lift](#emin-carapeti---cleft-lift)
-
-[Miss Asha Senapati \- Cleft Lift](#miss-asha-senapati---cleft-lift)
-
-[What type of anesthesia is used?](#what-type-of-anesthesia-is-used?)
-
-[Costs](#costs)
-
-[US costs](#us-costs)
-
-[After surgery care tips](#after-surgery-care-tips)
-
-[Cleft Lift](#cleft-lift-1)
-
-[Wound care](#wound-care)
-
-[What activities are okay?](#what-activities-are-okay?)
-
-[Sports:](#sports:)
-
-[Swimming:](#swimming:)
-
-[Bike Riding:](#bike-riding:)
-
-[Horseback Riding:](#horseback-riding:)
-
-[Intimacy/Sex:](#intimacy/sex:)
-
-[Nutrition](#nutrition)
-
-[Recovery times](#recovery-times)
-
-[Surgery recurrence rates](#surgery-recurrence-rates)
-
-[9\. When Surgery goes wrong](#when-surgery-goes-wrong)
-
-[Some stories](#some-stories)
-
-[Treatment options](#treatment-options)
-
-[The psychological effects](#the-psychological-effects)
-
-[The aesthetics](#the-aesthetics)
-
-[Stories](#stories)
-
-[10\. Prevention Strategies](#prevention-strategies)
-
-[Maintaining good personal hygiene](#maintaining-good-personal-hygiene)
-
-[Sitting](#sitting)
-
-[Comfy clothes](#comfy-clothes)
-
-[11\. Coping with the Condition](#coping-with-the-condition)
-
-[Emotional support for sufferers and caregivers](#emotional-support-for-sufferers-and-caregivers)
-
-[Women-specific tips](#women-specific-tips)
-
-[12\. FAQ: Frequently Asked Questions](#faq:-frequently-asked-questions)
-
-[Do I NEED to get surgery?](#do-i-need-to-get-surgery?)
-
-[Should I open the cyst by myself?](#should-i-open-the-cyst-by-myself?)
-
-[It really hurts, what do I do?](#it-really-hurts,-what-do-i-do?)
-
-[Does it ever disappear by itself?](#does-it-ever-disappear-by-itself?)
-
-[How much does laser hair removal help?](#how-much-does-laser-hair-removal-help?)
-
-[When do I see a doctor?](#when-do-i-see-a-doctor?)
-
-[Can I have surgery if the cyst is currently infected?](#can-i-have-surgery-if-the-cyst-is-currently-infected?)
-
-[What does taking antibiotics do?](#what-does-taking-antibiotics-do?)
-
-[How do I keep future flare ups as low as possible?](#how-do-i-keep-future-flare-ups-as-low-as-possible?)
-
-[Should I wait to see if it comes back or address it immediately?](#should-i-wait-to-see-if-it-comes-back-or-address-it-immediately?)
-
-[How do I find a surgeon? How do I know they are skilled?](#how-do-i-find-a-surgeon?-how-do-i-know-they-are-skilled?)
-
-[Is it a Pilonidal cyst or an anal fistula? What else could it be?](#is-it-a-pilonidal-cyst-or-an-anal-fistula?-what-else-could-it-be?)
-
-[How many people suffer from this condition?](#how-many-people-suffer-from-this-condition?)
-
-[13\. Warnings](#warnings)
-
-[Sinus tracts have some risk of developing cancer if untreated for decades](#sinus-tracts-have-some-risk-of-developing-cancer-if-untreated-for-decades)
-
-[Non specialists cutting the midline can make a mess, see a specialist asap](#non-specialists-cutting-the-midline-can-make-a-mess,-see-a-specialist-asap)
-
-[Addressing it early is the best bet](#addressing-it-early-is-the-best-bet)
-
-[14\. Online Support](#online-support)
-
-[15\. Controversies](#controversies)
-
-[16\. Some wilder theories](#some-wilder-theories)
-
-[Pilonidal Sinus And Prolonged Sexual Stimulation: The Poisonous Hormones](#pilonidal-sinus-and-prolonged-sexual-stimulation:-the-poisonous-hormones)
-
-[German New Medicine](#german-new-medicine)
-
-[Infrared Light treatment](#infrared-light-treatment)
-
-[17\. Conclusion](#conclusion)
-
-[Appendix](#appendix)
-
-[Images](#images)
-
-[Reading list/Resources](#reading-list/resources)
-
-[Surgery for pilonidal cyst: MedlinePlus Medical Encyclopedia](#surgery-for-pilonidal-cyst:-medlineplus-medical-encyclopedia)
-
-[Papers](#papers)
-
-[Other resources](#other-resources)
-
-[Pilonidal Library \- Pilonidal Support Alliance](#pilonidal-library---pilonidal-support-alliance)
-
-2. # Introduction {#introduction}
+# Introduction {#introduction}
 
 ## What is a pilonidal cyst {#what-is-a-pilonidal-cyst}
 
@@ -289,7 +33,7 @@ Then the anxiety started. I experienced varying levels of pain in the area, cons
 
 As of now, it's much less painful, but it does drain more often. I've decided to have the operation done privately in Europe, where I currently live. I'm grateful I chose to read extensively about it before committing to the first surgeon I found nearby.
 
-3. # Immediate help {#immediate-help}
+# Immediate Help {#immediate-help}
 
 ## If you are in a lot of pain right now {#if-you-are-in-a-lot-of-pain-right-now}
 
@@ -336,7 +80,114 @@ This condition is manageable. With the right information and the right surgeon, 
 [https://www.pilonidal.org/treatments/immediate-treatments/](https://www.pilonidal.org/treatments/immediate-treatments/)  
 [About Pilonidal Disease \- Sternberg Clinic](https://pilonidalsurgery.com/pilonidal-disease/)
 
-4. # Pilonidal Cyst Terminology {#pilonidal-cyst-terminology}
+# Understanding Pilonidal Disease {#understanding-pilonidal-disease}
+
+## Symptoms and Diagnosis {#symptoms-and-diagnosis}
+
+### Common Symptoms {#common-symptoms}
+
+Symptoms vary a lot from person to person, but the most common ones are:
+
+* Pain (often severe when infected)  
+* Itching  
+* Swelling  
+* Drainage of fluid (which can be brownish, whitish, clear, or streaked with blood)  
+* Unpleasant odor from the draining fluid  
+* Lower back pain (in some cases)
+
+### Identifying a Pilonidal Cyst {#identifying-a-pilonidal-cyst}
+
+Knowing what to look for can help you recognize it early:
+
+* Location: Usually form just to the side of the top crease in the buttocks (natal cleft)  
+* Appearance: Can range from a small pea-sized lump to larger than a golf ball  
+* Sinus openings: If present, typically along the center (midline) of the crease  
+* Pain: The lump is usually tender to touch, extremely painful if infected  
+* Drainage: Some cysts may have a draining sinus without a visible lump  
+* Deep cysts: In some cases, there may be no visible signs on the skin surface, only deep pain
+
+Lower back pain during an infected flare is common. There's no confirmed explanation, but it may be related to pressure on nearby nerve endings (including the sciatic nerve) or the way you unconsciously shift how you sit to avoid pain.
+
+### When to See a Doctor {#when-to-see-a-doctor}
+
+See a doctor any time you suspect a pilonidal cyst — but some situations need faster action:
+
+If it feels like it's about to burst, go to the emergency room. Proper drainage at this stage prevents a lot of unnecessary suffering.
+
+1. If you're in an early flare, your GP may prescribe antibiotics to calm things down while you explore surgical options. Just know that antibiotics aren't a long-term fix.  
+2. If you have severe pain, significant swelling, or any other signs of spreading infection, don't wait.
+
+### Diagnosis Challenges {#diagnosis-challenges}
+
+Pilonidal disease doesn't always present the same way, which can make diagnosis tricky:
+
+- Many people have it and don't know — cases without symptoms are hard to count.  
+- About half of patients show up to care acutely, with a sudden, very painful swelling over the natal cleft.  
+- The other half develop it chronically: one or more pits in the midline, sometimes with extensions that surface as swellings or fistulas on one or both sides.  
+- Chronic cases tend to come and go — quiet for a while, then a flare of pain, swelling, or discharge.
+
+Also worth knowing: not every doctor is well-versed in pilonidal disease, and misdiagnosis does happen. If something feels off, get a second opinion.
+
+### Community Support {#community-support}
+
+One thing that helps a lot of people — especially while trying to understand what they're looking at or figure out their options — is connecting with others who've been through it. Pilonidal-focused forums and subreddits are full of people who can describe what their diagnosis looked like, what questions to ask, and what worked for them. It's not a substitute for medical care, but it can make you feel a lot less alone.
+
+If you want a clearer sense of what the disease looks like, medical image galleries can be a useful reference — just pair anything you find online with a proper evaluation from a doctor.
+
+*Resources:*  
+[https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/](https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/)  
+[https://www.topdoctors.co.uk/medical-articles/the-most-successful-pilonidal-sinus-surgical-procedures](https://www.topdoctors.co.uk/medical-articles/the-most-successful-pilonidal-sinus-surgical-procedures)
+
+## Causes and Risk Factors {#causes-and-risk-factors-of-pilonidal-cysts}
+
+If you're trying to understand why this happened to you, the honest answer is: it's usually a combination of anatomy, lifestyle, and bad luck. Pilonidal cysts — more accurately called pilonidal abscesses — aren't caused by one thing. Here's what actually goes on.
+
+### Primary Causes {#primary-causes}
+
+**Follicular Occlusion**: The main culprit is a blocked hair follicle in your natal cleft (the crease between your buttocks). When a follicle gets blocked, it can form a small pit or dimple in the skin — and that pit is where trouble starts.
+
+**Stretched Pores**: Sustained pressure on the tailbone area — from sitting for long stretches or slouching — can stretch those pores open, making them more likely to get clogged.
+
+**Bacterial Infection**: Once a pit forms, anaerobic bacteria can move in. That's what turns a pit into a painful abscess.
+
+### Risk Factors {#risk-factors}
+
+Not everyone gets one, but some things make you more likely to:
+
+1. **Family History**: There's a genetic component — if someone in your family has had it, your odds go up.  
+     
+2. **Age and Gender**: It's most common in young adults, especially males.  
+     
+3. **Body Hair**: This is often misunderstood. The disease isn't caused by ingrown hairs — but hair in the natal cleft can contribute to the problem. Interestingly, only about 50% of pilonidal abscesses actually contain hair.  
+     
+4. **Body Shape**: A deep natal cleft or overhanging buttocks creates more friction and traps moisture, which raises your risk.  
+     
+5. **Occupation and Lifestyle**: If your job or daily life involves long hours of sitting — especially on hard surfaces — that sustained pressure matters.  
+     
+6. **Obesity**: Extra weight can deepen the natal cleft and increase friction and moisture in the area.  
+     
+7. **Poor Hygiene**: Not a direct cause, but it can make things worse.  
+     
+8. **Trauma**: An injury to the tailbone area can sometimes be the trigger.  
+     
+9. **Other Skin Conditions**: If you're prone to acne, hidradenitis suppurativa, or other follicular occlusion conditions, you may be at higher risk.
+
+### Common Misconceptions {#common-misconceptions}
+
+1. **Hair Removal**: You might think shaving the area would help prevent flare-ups — but most specialists advise against it. **Surgeons who perform cleft lift procedures often specifically tell patients not to shave**, for good reason:  
+* Shaving leaves sharp hair ends that can burrow back into the skin, causing ingrown hairs.  
+* Chemical removers like Nair can burn the skin and irritate surgical incisions.  
+* Hair removal isn't medically necessary, and the risks usually outweigh any benefit.  
+2. **Congenital Origin**: Most people assume they were born with it — but the majority of pilonidal cysts are acquired, not congenital. (A small subset linked to conditions like spina bifida occulta may have a congenital component.)
+
+Having several of these risk factors doesn't mean you'll definitely develop a pilonidal cyst — and plenty of people get one with no obvious risk factors at all. It's frustrating, but it's not your fault.
+
+Resources:  
+[How You Got a Pilonidal](https://www.pilonidal.org/what-is-pilonidal-disease/how-you-got-a-pilonidal/)  
+[Pilonidal Surgery FAQ \- Sternberg Clinic](https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/)  
+[https://www.reddit.com/r/pilonidalcyst/comments/1erbgcv/how\_long\_to\_wait\_before\_shavinglaser/](https://www.reddit.com/r/pilonidalcyst/comments/1erbgcv/how_long_to_wait_before_shavinglaser/)
+
+## Terminology {#pilonidal-cyst-terminology}
 
 **Cyst** A cavity inside the body containing hair, fluid, or debris.
 
@@ -378,112 +229,7 @@ This condition is manageable. With the right information and the right surgeon, 
 
 *Note: The PTCNJ website (ptcnj.com) is no longer available.*
 
-5. # Symptoms and Diagnosis {#symptoms-and-diagnosis}
-
-## Common Symptoms {#common-symptoms}
-
-Symptoms vary a lot from person to person, but the most common ones are:
-
-* Pain (often severe when infected)  
-* Itching  
-* Swelling  
-* Drainage of fluid (which can be brownish, whitish, clear, or streaked with blood)  
-* Unpleasant odor from the draining fluid  
-* Lower back pain (in some cases)
-
-## Identifying a Pilonidal Cyst {#identifying-a-pilonidal-cyst}
-
-Knowing what to look for can help you recognize it early:
-
-* Location: Usually form just to the side of the top crease in the buttocks (natal cleft)  
-* Appearance: Can range from a small pea-sized lump to larger than a golf ball  
-* Sinus openings: If present, typically along the center (midline) of the crease  
-* Pain: The lump is usually tender to touch, extremely painful if infected  
-* Drainage: Some cysts may have a draining sinus without a visible lump  
-* Deep cysts: In some cases, there may be no visible signs on the skin surface, only deep pain
-
-Lower back pain during an infected flare is common. There's no confirmed explanation, but it may be related to pressure on nearby nerve endings (including the sciatic nerve) or the way you unconsciously shift how you sit to avoid pain.
-
-## When to See a Doctor {#when-to-see-a-doctor}
-
-See a doctor any time you suspect a pilonidal cyst — but some situations need faster action:
-
-If it feels like it's about to burst, go to the emergency room. Proper drainage at this stage prevents a lot of unnecessary suffering.
-
-1. If you're in an early flare, your GP may prescribe antibiotics to calm things down while you explore surgical options. Just know that antibiotics aren't a long-term fix.  
-2. If you have severe pain, significant swelling, or any other signs of spreading infection, don't wait.
-
-## Diagnosis Challenges {#diagnosis-challenges}
-
-Pilonidal disease doesn't always present the same way, which can make diagnosis tricky:
-
-- Many people have it and don't know — cases without symptoms are hard to count.  
-- About half of patients show up to care acutely, with a sudden, very painful swelling over the natal cleft.  
-- The other half develop it chronically: one or more pits in the midline, sometimes with extensions that surface as swellings or fistulas on one or both sides.  
-- Chronic cases tend to come and go — quiet for a while, then a flare of pain, swelling, or discharge.
-
-Also worth knowing: not every doctor is well-versed in pilonidal disease, and misdiagnosis does happen. If something feels off, get a second opinion.
-
-## Community Support {#community-support}
-
-One thing that helps a lot of people — especially while trying to understand what they're looking at or figure out their options — is connecting with others who've been through it. Pilonidal-focused forums and subreddits are full of people who can describe what their diagnosis looked like, what questions to ask, and what worked for them. It's not a substitute for medical care, but it can make you feel a lot less alone.
-
-If you want a clearer sense of what the disease looks like, medical image galleries can be a useful reference — just pair anything you find online with a proper evaluation from a doctor.
-
-*Resources:*  
-[https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/](https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/)  
-[https://www.topdoctors.co.uk/medical-articles/the-most-successful-pilonidal-sinus-surgical-procedures](https://www.topdoctors.co.uk/medical-articles/the-most-successful-pilonidal-sinus-surgical-procedures)
-
-6. # Causes and Risk Factors of Pilonidal Cysts {#causes-and-risk-factors-of-pilonidal-cysts}
-
-If you're trying to understand why this happened to you, the honest answer is: it's usually a combination of anatomy, lifestyle, and bad luck. Pilonidal cysts — more accurately called pilonidal abscesses — aren't caused by one thing. Here's what actually goes on.
-
-## Primary Causes {#primary-causes}
-
-**Follicular Occlusion**: The main culprit is a blocked hair follicle in your natal cleft (the crease between your buttocks). When a follicle gets blocked, it can form a small pit or dimple in the skin — and that pit is where trouble starts.
-
-**Stretched Pores**: Sustained pressure on the tailbone area — from sitting for long stretches or slouching — can stretch those pores open, making them more likely to get clogged.
-
-**Bacterial Infection**: Once a pit forms, anaerobic bacteria can move in. That's what turns a pit into a painful abscess.
-
-## Risk Factors {#risk-factors}
-
-Not everyone gets one, but some things make you more likely to:
-
-1. **Family History**: There's a genetic component — if someone in your family has had it, your odds go up.  
-     
-2. **Age and Gender**: It's most common in young adults, especially males.  
-     
-3. **Body Hair**: This is often misunderstood. The disease isn't caused by ingrown hairs — but hair in the natal cleft can contribute to the problem. Interestingly, only about 50% of pilonidal abscesses actually contain hair.  
-     
-4. **Body Shape**: A deep natal cleft or overhanging buttocks creates more friction and traps moisture, which raises your risk.  
-     
-5. **Occupation and Lifestyle**: If your job or daily life involves long hours of sitting — especially on hard surfaces — that sustained pressure matters.  
-     
-6. **Obesity**: Extra weight can deepen the natal cleft and increase friction and moisture in the area.  
-     
-7. **Poor Hygiene**: Not a direct cause, but it can make things worse.  
-     
-8. **Trauma**: An injury to the tailbone area can sometimes be the trigger.  
-     
-9. **Other Skin Conditions**: If you're prone to acne, hidradenitis suppurativa, or other follicular occlusion conditions, you may be at higher risk.
-
-## Common Misconceptions {#common-misconceptions}
-
-1. **Hair Removal**: You might think shaving the area would help prevent flare-ups — but most specialists advise against it. **Surgeons who perform cleft lift procedures often specifically tell patients not to shave**, for good reason:  
-* Shaving leaves sharp hair ends that can burrow back into the skin, causing ingrown hairs.  
-* Chemical removers like Nair can burn the skin and irritate surgical incisions.  
-* Hair removal isn't medically necessary, and the risks usually outweigh any benefit.  
-2. **Congenital Origin**: Most people assume they were born with it — but the majority of pilonidal cysts are acquired, not congenital. (A small subset linked to conditions like spina bifida occulta may have a congenital component.)
-
-Having several of these risk factors doesn't mean you'll definitely develop a pilonidal cyst — and plenty of people get one with no obvious risk factors at all. It's frustrating, but it's not your fault.
-
-Resources:  
-[How You Got a Pilonidal](https://www.pilonidal.org/what-is-pilonidal-disease/how-you-got-a-pilonidal/)  
-[Pilonidal Surgery FAQ \- Sternberg Clinic](https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/)  
-[https://www.reddit.com/r/pilonidalcyst/comments/1erbgcv/how\_long\_to\_wait\_before\_shavinglaser/](https://www.reddit.com/r/pilonidalcyst/comments/1erbgcv/how_long_to_wait_before_shavinglaser/)
-
-7. # Non Surgical Care {#non-surgical-care}
+# Non-Surgical Care {#non-surgical-care}
 
 ## Initial Flare-up and Natural Remedies for Pilonidal Cysts {#initial-flare-up-and-natural-remedies-for-pilonidal-cysts}
 
@@ -618,7 +364,7 @@ Antibiotic Management \- Pilonidal Treatment Center of New Jersey *(ptcnj.com li
 [Can Pilonidal Sinus be Treated Without Surgery? | Dr Nitish Jhawar | Apollo 24|7](https://www.youtube.com/watch?v=KarU9z8p76g)  
 [86.06 Recurrence of pilonidal disease: our best is not good enough \- Academic Surgical Congress Abstracts Archive](https://www.asc-abstracts.org/abs2018/86-06-recurrence-of-pilonidal-disease-our-best-is-not-good-enough/)
 
-8. # Surgical options  {#surgical-options}
+# Surgical Options {#surgical-options}
 
 ## What types of surgeries are there? {#what-types-of-surgeries-are-there?}
 
@@ -1055,9 +801,11 @@ Patients with prior failed surgeries had higher recurrence rates.
 
 The overall recurrence rate was 33%, with the majority of recurrences (80%) occurring within the first year. On multivariable analysis, obese [BMI](https://www.sciencedirect.com/topics/medicine-and-dentistry/body-mass-index) was the only factor independently associated with time to disease recurrence.
 
-9. # When Surgery goes wrong {#when-surgery-goes-wrong}
+# Recovery and Living With It {#recovery-and-living-with-it}
 
-## Some stories {#some-stories}
+## When Surgery Goes Wrong {#when-surgery-goes-wrong}
+
+### Some stories {#some-stories}
 
 Not every surgery goes the way it should. This section exists because people deserve to know that bad outcomes happen — and that there are real paths forward when they do.
 
@@ -1069,7 +817,7 @@ My Pilonidal Cyst Doctor “Didn’t Believe in the Cleft-Lift”. The Story of 
 
 I had a pilonidal excision with closed wound procedure done by a general surgeon. He made it sound like a pretty routine thing and said it would take 1 month for recovery. That was over 7 months ago. The stitches came out after 2 weeks and the incision healed ok. But I haven’t been able to sit without pain since the surgery. Can’t drive long distances, can’t sit and read a book. Laying on my back is also painful. I’ve had to cancel a few family trips because I can’t sit on an airplane. Now I know the surgeon messed me up by putting the incision right on the midline and likely took out too much tissue as well. I didn’t know it then, but it is extremely important to find a pilonidal specialist who is experienced with the cleft lift procedure. Any procedure with the incision in the middle of the cleft is likely to fail or leave the patient with chronic pain like me. I now have a referral to a specialist in another city and I’m hoping he can fix the damage.
 
-## Treatment options {#treatment-options}
+### Treatment options {#treatment-options}
 
 Most people only discover the Cleft Lift after one or more failed surgeries by a non-specialist. The good news is that many of those same people go on to get a Cleft Lift and heal well.
 
@@ -1082,17 +830,17 @@ The Cleft Lift also has recurrences, see post.
 
 And there are people who [regret the Cleft Lift](https://www.pilonidal.org/xfforums/threads/warning-cleft-lift-regret.13531/) and wish they had tried Pit Picking first.
 
-## The psychological effects {#the-psychological-effects}
+### The psychological effects {#the-psychological-effects}
 
 https://ptcnj.com/psychosocial-support/ *(ptcnj.com link no longer available)*
 
 In the select patient who has undergone one or more failed pilonidal operations by non-specialist(s), corrective surgery is only part of the healing process. The pilonidal surgical failure is too often interwoven with patient-blame, stigmatization, and even subtle abandonment by the provider. Unpacking the psychosocial impact of the experience shares equal if not superior importance in treating the whole patient. Only when physician, patient and/or family agree that it is warranted, our social worker will conduct a telemedicine session approximately 30 minutes in length. A full assessment of needs is conducted, and a plan to meet those needs is implemented. Recommendations range from stress-coping activities to support group participation to ongoing counseling sessions. Whatever the need, restoration of mind, body, and spirit is the ultimate goal.
 
-## The aesthetics {#the-aesthetics}
+### The aesthetics {#the-aesthetics}
 
 Body image concerns are real and valid, and you shouldn't feel shallow for having them. Pilonidal surgery — especially the Cleft Lift — changes the anatomy of the area, and that matters to people. Some find they're fine with it; others aren't. Either reaction is normal.
 
-### Stories {#stories}
+#### Stories {#stories}
 
 https://ptcnj.com/our-treatments/liposuction-assisted-cleftoplasty/ *(ptcnj.com link no longer available)*  
 At PTCNJ, we have begun to selectively offer liposuction-assisted cleftoplasty for patients fully healed and cured of the disease but disappointed by the anatomic change.  
@@ -1133,9 +881,9 @@ Key Points and Aesthetic Considerations:
 
 Overall, aesthetic concerns are valid and worth raising with your surgeon before deciding on a procedure. Doing your research, considering less invasive options first, and finding a surgeon who takes cosmetic outcomes seriously can all make a meaningful difference.
 
-10. #  Prevention Strategies {#prevention-strategies}
+## Prevention Strategies {#prevention-strategies}
 
-## Maintaining good personal hygiene {#maintaining-good-personal-hygiene}
+### Maintaining good personal hygiene {#maintaining-good-personal-hygiene}
 
 The basics go a long way: keep the area clean and dry. After showering, pat gently rather than rubbing, and make sure the cleft is fully dry before getting dressed — moisture and friction are the main culprits. Loose, breathable clothing helps here too.
 
@@ -1163,7 +911,7 @@ The disease is not caused by ingrown hairs.
 
 6\. It's important to consult with your doctor about the best hair removal method for your specific case.
 
-## Sitting {#sitting}
+### Sitting {#sitting}
 
 Prolonged sitting puts direct pressure on the tailbone and cleft, which can aggravate the area and slow healing. If you sit for long stretches — at a desk, in a car, on a plane — a good cushion makes a real difference. Coccyx cutout cushions and donut-style seats redistribute weight away from the affected area. Memory foam and gel options both work; the right one comes down to personal fit and comfort.
 
@@ -1174,7 +922,7 @@ Prolonged sitting puts direct pressure on the tailbone and cleft, which can aggr
 [https://clevive.com/kit/pilonidal-sinus-cushion/](https://clevive.com/kit/pilonidal-sinus-cushion/)  
 [Amazon.com : Everlasting Comfort Doctor Recommended Memory Foam Seat Cushions for Office Chairs \- HSA FSA Eligible Tailbone Pain Relief Cushion, Sciatica & Back Support, Office Chair Cushion & Car Seat Cushion](https://www.amazon.com/dp/B01EBDV9BU?ref=ppx_pop_mob_ap_share&th=1)
 
-## Comfy clothes {#comfy-clothes}
+### Comfy clothes {#comfy-clothes}
 
 [https://pilonidal.com/clothing/](https://pilonidal.com/clothing/) 
 
@@ -1182,13 +930,13 @@ So, it is important to wear loose fitting clothing that allows air circulation a
 
 [https://www.pilonidal.org/xfforums/threads/ladies-what-type-of-underwear-do-did-you-wear.140/](https://www.pilonidal.org/xfforums/threads/ladies-what-type-of-underwear-do-did-you-wear.140/)
 
-11. # Coping with the Condition {#coping-with-the-condition}
+## Coping with the Condition {#coping-with-the-condition}
 
-## Emotional support for sufferers and caregivers {#emotional-support-for-sufferers-and-caregivers}
+### Emotional support for sufferers and caregivers {#emotional-support-for-sufferers-and-caregivers}
 
 Living with a pilonidal cyst — especially a recurring one — takes a real psychological toll. The chronic pain, the disruption to work and social life, the embarrassment of a condition in such an awkward location: all of it adds up. It's normal to feel frustrated, isolated, or even dismissed by doctors who don't take it seriously. Connecting with others who understand can help enormously. The [Pilonidal Support Alliance forums](https://www.pilonidal.org/xfforums/) and communities like [r/pilonidalcyst](https://www.reddit.com/r/pilonidalcyst/) are full of people who have been through it and can offer practical advice alongside genuine empathy. More people than you'd expect have dealt with this condition — you don't have to figure it out alone.
 
-## Women-specific tips {#women-specific-tips}
+### Women-specific tips {#women-specific-tips}
 
 [A Word for the Girls \- Pilonidal Support Alliance](https://www.pilonidal.org/what-is-pilonidal-disease/a-word-for-the-girls/)
 
@@ -1203,7 +951,7 @@ Pilonidal cysts affect women differently from men in several important ways. Wom
 
 [https://www.pilonidal.org/xfforums/threads/ladies-what-type-of-underwear-do-did-you-wear.140/](https://www.pilonidal.org/xfforums/threads/ladies-what-type-of-underwear-do-did-you-wear.140/)
 
-12. #  FAQ: Frequently Asked Questions {#faq:-frequently-asked-questions}
+# FAQ: Frequently Asked Questions {#faq:-frequently-asked-questions}
 
 ## Do I NEED to get surgery? {#do-i-need-to-get-surgery?}
 
@@ -1309,34 +1057,34 @@ Some patients with pilonidal disease are told that they have a condition called 
 [https://www.webmd.com/skin-problems-and-treatments/pilondial-cyst](https://www.webmd.com/skin-problems-and-treatments/pilondial-cyst)  
 70,000 people get a pilonidal cyst in the U.S. each year.
 
-13. # Warnings {#warnings}
+# Further Resources {#further-resources}
 
-    
-
-## Sinus tracts have some risk of developing cancer if untreated for decades {#sinus-tracts-have-some-risk-of-developing-cancer-if-untreated-for-decades}
-
-*Note: The PTCNJ website (ptcnj.com) is no longer available.*
-
-[https://www.pilonidal.org/what-is-pilonidal-disease/faq-diagnosing/](https://www.pilonidal.org/what-is-pilonidal-disease/faq-diagnosing/)  
-Very rarely. As of 1999, fewer than 50 cases have been reported and those were mostly in people who had refused treatment for many, many years. When you undergo surgery, your doctor will probably send the tissue to the lab for testing just to be sure.
-
-## Non specialists cutting the midline can make a mess, see a specialist asap {#non-specialists-cutting-the-midline-can-make-a-mess,-see-a-specialist-asap}
-
-[https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/](https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/)  
-We’ve heard stories on the forums of doctors misdiagnosing Pilonidals as Anal Fistulas, Anal Abscesses, Boils, Sebaceous Cysts, Hemorrhoids, bruised tailbones or even Sciatica.
-
-## Addressing it early is the best bet {#addressing-it-early-is-the-best-bet}
-
-Delaying treatment rarely makes things better — it almost always makes them worse. A small pit or minor flare-up is far easier to manage than an established sinus tract with multiple branches; early intervention typically means a simpler procedure, a shorter recovery, and a lower chance of recurrence. If you notice symptoms, getting a proper diagnosis sooner rather than later gives you the widest range of treatment options and the best odds of a lasting fix.
-
-14. # Online Support {#online-support}
+## Online Support {#online-support}
 
 [https://www.pilonidal.org/](https://www.pilonidal.org/) — The Pilonidal Support Alliance: the most comprehensive patient-focused resource online, with FAQs, treatment overviews, surgeon referrals, and an active community forum.  
 [r/pilonidalcyst](https://www.reddit.com/r/pilonidalcyst/) — A large, active Reddit community where patients share their experiences, post surgery photos, and offer advice on everything from pre-op prep to long-term wound care.  
 [Pilonidal Forum](https://www.pilonidal.com.au/) — An Australian-based forum with a detailed archive of patient discussions, particularly useful for perspectives on cleft-lift and Bascom procedures.  
 [https://www.pilonidal.com.au/](https://www.pilonidal.com.au/) — Additional Australian patient support and information resource.
 
-15. # Controversies {#controversies}
+## Warnings {#warnings}
+
+### Sinus tracts have some risk of developing cancer if untreated for decades {#sinus-tracts-have-some-risk-of-developing-cancer-if-untreated-for-decades}
+
+*Note: The PTCNJ website (ptcnj.com) is no longer available.*
+
+[https://www.pilonidal.org/what-is-pilonidal-disease/faq-diagnosing/](https://www.pilonidal.org/what-is-pilonidal-disease/faq-diagnosing/)  
+Very rarely. As of 1999, fewer than 50 cases have been reported and those were mostly in people who had refused treatment for many, many years. When you undergo surgery, your doctor will probably send the tissue to the lab for testing just to be sure.
+
+### Non specialists cutting the midline can make a mess, see a specialist asap {#non-specialists-cutting-the-midline-can-make-a-mess,-see-a-specialist-asap}
+
+[https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/](https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/)  
+We’ve heard stories on the forums of doctors misdiagnosing Pilonidals as Anal Fistulas, Anal Abscesses, Boils, Sebaceous Cysts, Hemorrhoids, bruised tailbones or even Sciatica.
+
+### Addressing it early is the best bet {#addressing-it-early-is-the-best-bet}
+
+Delaying treatment rarely makes things better — it almost always makes them worse. A small pit or minor flare-up is far easier to manage than an established sinus tract with multiple branches; early intervention typically means a simpler procedure, a shorter recovery, and a lower chance of recurrence. If you notice symptoms, getting a proper diagnosis sooner rather than later gives you the widest range of treatment options and the best odds of a lasting fix.
+
+## Controversies {#controversies}
 
 Cysts are caused by hair. While hair is frequently found inside pilonidal sinuses, some researchers argue it is a consequence rather than the root cause — the underlying issue may be a congenital pit or follicle defect that traps hair secondarily. The debate affects how aggressively hair removal is recommended as prevention.
 
@@ -1346,23 +1094,23 @@ Surgery is necessary. Mild or early-stage disease can sometimes be managed conse
 
 Any surgeon can do. Pilonidal repair, especially procedures like the cleft-lift (Bascom or Karydakis), requires specific technique and experience. General surgeons unfamiliar with these approaches may default to wide excision with midline closure, which carries higher recurrence rates. Most patient advocates and pilonidal specialists strongly recommend seeking a surgeon with documented experience in off-midline repairs.
 
-16. # Some wilder theories {#some-wilder-theories}
+## Some Wilder Theories {#some-wilder-theories}
 
-## [Pilonidal Sinus And Prolonged Sexual Stimulation: The Poisonous Hormones](https://ispub.com/IJS/8/1/9790) {#pilonidal-sinus-and-prolonged-sexual-stimulation:-the-poisonous-hormones}
+### [Pilonidal Sinus And Prolonged Sexual Stimulation: The Poisonous Hormones](https://ispub.com/IJS/8/1/9790) {#pilonidal-sinus-and-prolonged-sexual-stimulation:-the-poisonous-hormones}
 
-This paper proposes an unconventional theory about pilonidal sinus (PNS), suggesting it's caused by prolonged high levels of sex hormones, particularly androgens, in the body. The authors claim these hormones overstimulate special sweat glands in the buttock area, leading to excessive sweating. They theorize that the sweat's electrolytes attract loose hair into the gland openings, causing inflammation and sinus formation. The study presents a conservative treatment approach based on this theory, advising patients to avoid prolonged sexual stimulation to reduce hormone levels. In a small group of 21 patients treated this way, they report 85.6% success rate. The authors extend this hormonal theory to other conditions like carpal tunnel syndrome and deep vein thrombosis. However, it's crucial to note that this theory and treatment approach are not widely accepted in the medical community and lack substantial scientific evidence to support their claims.
+This paper proposes an unconventional theory about pilonidal sinus (PNS), suggesting it’s caused by prolonged high levels of sex hormones, particularly androgens, in the body. The authors claim these hormones overstimulate special sweat glands in the buttock area, leading to excessive sweating. They theorize that the sweat’s electrolytes attract loose hair into the gland openings, causing inflammation and sinus formation. The study presents a conservative treatment approach based on this theory, advising patients to avoid prolonged sexual stimulation to reduce hormone levels. In a small group of 21 patients treated this way, they report 85.6% success rate. The authors extend this hormonal theory to other conditions like carpal tunnel syndrome and deep vein thrombosis. However, it’s crucial to note that this theory and treatment approach are not widely accepted in the medical community and lack substantial scientific evidence to support their claims.
 
-## German New Medicine {#german-new-medicine}
+### German New Medicine {#german-new-medicine}
 
 [https://learninggnm.com/SBS/documents/skin.html](https://learninggnm.com/SBS/documents/skin.html)  
 A pilonidal cyst is a boil that develops on the tailbone near the cleft of the buttocks as the area where the [attack conflict](https://learninggnm.com/SBS/documents/skin.html#Corium_Skin_BC) was registered. Interestingly, the condition was widespread in the United States Army during the Second World War. It was termed “jeep riders’ disease” because a large number of soldiers who were being hospitalized for it rode in Jeeps. The prolonged rides in the bumpy vehicles must have triggered an “attack” conflict.
 
-## Infrared Light treatment {#infrared-light-treatment}
+### Infrared Light treatment {#infrared-light-treatment}
 
 [https://www.reddit.com/r/pilonidalcyst/comments/wear1j/ive\_successfully\_found\_a\_novel\_way\_to\_treat\_our/](https://www.reddit.com/r/pilonidalcyst/comments/wear1j/ive_successfully_found_a_novel_way_to_treat_our/)  
 [TheraLamp Infrared Heat Lamp on Amazon](https://www.amazon.com/Light-Therapy-Infrared-Heat-TheraLamp/dp/B01K87EBMM)
 
-17. # Conclusion {#conclusion}
+# Conclusion {#conclusion}
 
 Pilonidal disease is more complex than it looks, but understanding it puts you in a much stronger position. The most important things to take away: see a specialist (not just any surgeon), explore off-midline surgical techniques if you need an operation, don't ignore symptoms hoping they'll resolve on their own, and keep the area as hair-free as you can after treatment. Dealing with a chronic wound in such an uncomfortable location is genuinely hard — the pain, the repeated dressing changes, the anxiety about recurrence — and it's okay to find it difficult. But thousands of people have come out the other side of this with a fully healed result and their normal life back. With the right surgeon, the right procedure, and a bit of patience, that outcome is very much within reach.
 
