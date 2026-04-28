@@ -114,7 +114,7 @@
 
 [Dr Immerman in WI](#dr-immerman-in-wi)
 
-[Dr Shrager and Dr Miller in NJ-Cleft lift/minimally invasive procedure](https://ptcnj.com/about/meet-our-medical-directors/)
+[Dr Shrager and Dr Miller in NJ-Cleft lift/minimally invasive procedure](#dr-shrager-in-nj)
 
 [Dr Wadie \- Cleft Lift \- US, NC](#dr-wadie---cleft-lift---us,-nc)
 
@@ -254,13 +254,7 @@
 
 [Pilonidal Library \- Pilonidal Support Alliance](#pilonidal-library---pilonidal-support-alliance)
 
-# 
-
-# 
-
 2. # Introduction {#introduction}
-
-   ## 
 
 ## What is a pilonidal cyst {#what-is-a-pilonidal-cyst}
 
@@ -380,9 +374,9 @@ Remember, while dealing with a pilonidal cyst can be challenging, with the right
 
 **Midline Closure** A surgical technique where the wound is closed along the midline after excision of the pilonidal sinus. This method has fallen out of favor due to higher recurrence rates compared to off-midline closure techniques.
 
-#### Resources: {#resources:}
+## Resources {#resources:}
 
-[https://ptcnj.com/glossary-of-pilonidal-terms/](https://ptcnj.com/glossary-of-pilonidal-terms/)
+*Note: The PTCNJ website (ptcnj.com) is no longer available.*
 
 5. # Symptoms and Diagnosis {#symptoms-and-diagnosis}
 
@@ -538,7 +532,7 @@ Some users on online forums have reported success with a combination approach:
 * If symptoms persist or worsen, seek medical attention promptly.  
 * These methods are most effective for mild cases or as complementary treatments alongside professional medical care.
 
-Remember, while these natural remedies may offer some relief, pilonidal cysts can be a recurring condition that often requires medical intervention for long-term management. If you experience severe pain, fever, or signs of infection, it's crucial to consult a healthcare professional immediately.
+If symptoms persist, worsen, or you develop fever or signs of infection, see a doctor promptly.
 
 *Resources:*  
 [Pilonidal Sinus Treatment without Surgery](https://www.pristyncare.com/blog/get-rid-of-pilonidal-sinus-without-surgery-pc0441/)  
@@ -575,7 +569,7 @@ When a pilonidal cyst becomes inflamed and starts draining, prompt action is nec
      
 7. **Medical Evaluation**: Within a few days of the cyst draining, you should be evaluated by a physician. They can assess the severity of the condition and determine if further treatment, such as surgical intervention, is necessary.
 
-Remember, while these measures can provide relief, they are not a substitute for professional medical care. If you experience severe pain, fever, or signs of spreading infection, seek immediate medical attention.
+If pain is severe or you see signs of spreading infection (fever, increasing redness), get medical attention right away.
 
 *Resources:*  
 [SItz baths, Warm compresses, Antibiotics](https://www.healthline.com/health/pilonidal-cyst-surgery#cyst-recurrence)  
@@ -616,10 +610,10 @@ While antibiotics can manage symptoms, many patients eventually opt for surgery 
 * The condition is significantly impacting your quality of life.  
 * You want to reduce the long-term risk of recurrence.
 
-Remember, the decision between ongoing antibiotic management and surgical intervention should be made in consultation with a healthcare provider, considering your individual circumstances and the severity of your condition.
+Talk to your doctor about whether continued antibiotic management or surgery makes more sense for your situation.
 
 Resources:  
-[Antibiotic Management \- Pilonidal Treatment Center of New Jersey](https://ptcnj.com/our-treatments/antibiotic-management/)  
+Antibiotic Management \- Pilonidal Treatment Center of New Jersey *(ptcnj.com link no longer available)*  
 [Can Pilonidal Sinus be Treated Without Surgery? | Dr Nitish Jhawar | Apollo 24|7](https://www.youtube.com/watch?v=KarU9z8p76g)  
 [86.06 Recurrence of pilonidal disease: our best is not good enough \- Academic Surgical Congress Abstracts Archive](https://www.asc-abstracts.org/abs2018/86-06-recurrence-of-pilonidal-disease-our-best-is-not-good-enough/)
 
@@ -640,7 +634,7 @@ I’ve personally experienced a doctor refusing to make an incision in the absce
 
 Incision and drainage is a minor surgical procedure to remove the pilonidal cyst where there is no closure to the wounds. This allows the release of pus and pressure from the skin and let it heal on its own. The complete recovery after incision and drainage normally takes about two months.
 
-[https://ptcnj.com/our-treatments/emergency-surgical-drainage/](https://ptcnj.com/our-treatments/emergency-surgical-drainage/)  
+https://ptcnj.com/our-treatments/emergency-surgical-drainage/ *(ptcnj.com link no longer available)*  
 When an acute pilonidal abscess has developed, an urgent incision and drainage procedure is required. This is either performed in our Center under local anesthetic, or in an operative suite under mild intravenous sedation. The setting chosen is determined by the size of the abscess and patient preference. In this procedure, a small cruciate incision is created over the area of maximal fluctuance. The abscess cavity is entered with a fine hemostat, releasing the copious purulent fluid contained within. This fluid is sent to the laboratory for bacterial culture. Relief is immediate and dramatic. The cavity is packed with an iodinated strip and cleanly bandaged. The patient is sent home with an empiric oral antibiotic course and a light analgesic. The packing is self-removed in 48 hours, and the cavity is left open to heal from its depths outward.
 
 ### Marsupialization {#marsupialization}
@@ -663,34 +657,29 @@ The wounds made during this procedure are small and should heal quickly, with le
 ### SiLaT {#silat}
 
 [https://pilonidal.clinic/treatment/silac/](https://pilonidal.clinic/treatment/silac/)  
-Sinus Laser Therapy (SiLaT) is a little invasive surgical technique involving the cleaning of the cyst wound to remove bacteria, hair, puss, and granulation tissue, which allows for tissue healing and, as a result, cyst cavity atresia. A big advantage of this method is the reduced expansiveness of the procedure, which is limited only to the cyst cavity and results in small, relatively easily healing wounds, that usually heal within 4 to 6 weeks. Due to the limited invasiveness the cosmetic effect is very good – the buttocks remain practically unchanged.
+Sinus Laser Therapy (SiLaT) is a little invasive surgical technique involving the cleaning of the cyst wound to remove bacteria, hair, puss, and granulation tissue, which allows for tissue healing and, as a result, cyst cavity atresia. A big advantage of this method is the reduced expansiveness of the procedure, which is limited only to the cyst cavity and results in small, relatively easily healing wounds, that usually heal within 4 to 6 weeks. Due to the limited invasiveness the cosmetic effect is very good – the buttocks remain practically unchanged. However, since the deep intergluteal cleft is left unchanged, the risk of recurrence can reach 15–17% at 3 years.
 
 The surgery is conducted in local anesthesia and the patient can return home immediately after the procedure. In the first stage, the cyst cavity is opened through skin incision or resection of the purulent fistula opening. After gaining access to the cyst canal, the entire contents of the canal, consisting mostly of hair and granulation tissue, sometimes also puss, are removed with surgical instruments. Similarly, all the canals leading to the skin surface are cleaned. Then, fiber laser is inserted into the cyst cavity and with the use of laser light and laser-generated thermal energy, the infected and necrotic tissues forming the cyst wall are destroyed, until healthy tissues are reached. Thus cleaned cyst is left for healing.  
-A big advantage of the above method is the reduced expansiveness of the procedure, which is limited only to the cyst cavity and results in small, relatively easily healing wounds, that usually heal within 4 to 6 weeks. Due to the limited invasiveness, the cosmetic effect is very good – the buttocks remain practically unchanged, however, this can also be viewed as a disadvantage – since the deep intergluteal cleft is left unchanged, the risk of cyst reoccurrence will always be higher and can reach 15–17% in 3 years and even more in a longer period.
 
 Laser treatment of pilonidal cyst is a little invasive procedure and, therefore, pain is usually experienced only on the first day after the procedure and is associated mostly with the use of the laser. The patient may walk and sit immediately after the procedure and 24 hours post surgery and take a shower without the dressing. Wound care is easy: the patient only needs to change the dressings, which can be done at home according to postsurgical instructions. The wound usually heals in 4 to 6 weeks. While normal physical activity is possible immediately after the procedure, intense exercise, contact sports, and activities associated with staying under water for long periods of time (bath, swimming pool) can be safely resumed 6 weeks after the procedure.
 
 ### Pit Picking (also known as Bascom I) {#pit-picking-(also-known-as-bascom-i)}
 
-[https://ptcnj.com/our-treatments/pit-picking/](https://ptcnj.com/our-treatments/pit-picking/)
+*Note: The PTCNJ website (ptcnj.com) is no longer available.*
 
 In select patients, the more conservative “pit-picking” approach may be offered as a first-line treatment at PTCNJ.  
 Pit-picking is another minimally-invasive first-line approach for pilonidal patients wishing to avoid a larger incision. It is generally offered to patients with limited disease and an innately shallow cleft. Hydrogen peroxide is first injected into any dominant sinus tract to define its extent. Via minimal incision(s) in one or several lateral sinus tracts, using a fine hemostat, thick subdermal hair shafts and associated inflammatory granulation tissue are bluntly extracted. Communicating midline pits are gently bluntly dilated with same fine hemostat, and a similar extraction process is repeated at these pits. Multiple curettes or brushes are used to further scrub or “debride” the tracts and pits. Aggressive antiseptic irrigation is done. Finally, the tracts and pits are thermally ablated with an electrocautery pencil. These incisions are left open to heal from within. At PTCNJ, pit-picking is done in our ambulatory care center under intravenous sedation. The patient may return to full activities the day after the procedure.
 
-### 
-
-### VAAPS	 {#vaaps}
+### VAAPS {#vaaps}
 
 ### Cleft Lift {#cleft-lift}
 
 Developed by Dr. John Bascom, cleft lifting normally takes place if a pilonidal cyst fails to heal. Cleft lift is a lesser complicated method than all the above-mentioned methods. This method involves the removal of tissue which is more extensive than it appears on the surface.
 
-[https://ptcnj.com/our-treatments/cleft-lift-procedure/](https://ptcnj.com/our-treatments/cleft-lift-procedure/)  
+*The PTCNJ website (ptcnj.com) is no longer available.*  
 Building on the off-midline approach, American surgeon John Bascom further tailored the technique. He introduced the preoperative inscription of “safety lines”, the arcuate lines of gluteal skin contact seen when the patient is standing. These lines help define the incision and flap margins. Moreover, by modifying the tension in the closure, he added a shallowing or “lifting” of the cleft. This flatter cleft contour is the most important factor in recurrence risk reduction.
 
-At [PTCNJ](https://ptcnj.com/our-treatments/cleft-lift-procedure/), the cleft-lift procedure is performed in our ambulatory care center under general anesthesia. The duration of surgery is approximately 90 minutes. The resulting wound is closed in four absorbable suture layers over a small drain. Patients are asked to rest at home for 48 hours after the procedure. The drain is removed either at home by a family member or friend, or in our Center, at approximately one week following surgery. Stress to the operative site is avoided for 3 weeks. Full healing is seen between 3 and 6 weeks.
-
-#### When is cleft lift recommended? {#when-is-cleft-lift-recommended?}
+## When is cleft lift recommended? {#when-is-cleft-lift-recommended?}
 
 [https://www.reddit.com/r/pilonidalcyst/comments/19c5sri/comment/ky1c6vg/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button](https://www.reddit.com/r/pilonidalcyst/comments/19c5sri/comment/ky1c6vg/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)  
 My criteria for cleft lift is multiple abscesses or a sinus tract with a visible secondary opening at the skin level regardless of proximity to the anal verge.
@@ -704,7 +693,7 @@ You need to stay in hospital for about 2 nights after this type of surgery. Your
 
 ### Karydakis Flap procedure {#karydakis-flap-procedure}
 
-[https://ptcnj.com/our-treatments/cleft-lift-procedure/](https://ptcnj.com/our-treatments/cleft-lift-procedure/)
+*The PTCNJ website (ptcnj.com) is no longer available.*
 
 The cleft-lift finds its origins in a precursor operation conceived by Greek surgeon G.E. Karydakis in the early 1970’s. In the “Karydakis flap”, an elliptical incision was created that incorporated the entirety of the diseased intergluteal cleft, but was strategically offset several centimeters from the midline. This approach brought the sutured surgical wound to the side of, rather than within, the inhospitable cleft, in a microenvironment far more conducive to healing.  
 	  
@@ -717,7 +706,7 @@ The cleft-lift finds its origins in a precursor operation conceived by Greek sur
 This is especially true if your doctor is not a Colon & Rectal Surgeon. While we tend to recommend C/R surgeons, a General Surgeon can do just as good a job – providing they’ve stayed up on the current techniques and theories or are willing to learn. 
 
 **Traveling for surgery**  
-[FAQs \- Pilonidal Treatment Center of New Jersey](https://ptcnj.com/patient-resources/faqs/)  
+FAQs \- Pilonidal Treatment Center of New Jersey *(ptcnj.com link no longer available)*  
 May I travel following pilonidal surgery?  
 A: Automobile travel is permitted immediately following pilonidal surgery of any kind including the cleft-lift procedure. Travel of this type should be limited to 6 hours in a day. With regards to timing, the day or evening of the surgery is preferable to the day after the surgery because residual sedation allows for better patient sleeping during the ride. Reclining in a passenger seat or laying supine on connected back seats is recommended. With regards to air travel, it is recommended that flights not be scheduled until at least two days following surgery.
 
@@ -729,9 +718,9 @@ Day2: went to Doctor he just checked the stitches and changed dressing. Afterwar
 
 ### US {#us}
 
-#### Dr T Bascom \- Cleft Lift \- OR (Now Retired) {#dr-t-bascom---cleft-lift---or-(now-retired)}
+## Dr T Bascom \- Cleft Lift \- OR (Now Retired) {#dr-t-bascom---cleft-lift---or-(now-retired)}
 
-[https://riverbendasc.com/physician/bascom-thomas/](https://riverbendasc.com/physician/bascom-thomas/)
+*Dr. Thomas Bascom's practice website (riverbendasc.com) is no longer available.*
 
 [Testimonials](https://www.pilonidal.org/xfforums/threads/bascom-personal-testimonials.4253/)  
 [More Testimonials](https://www.ratemds.com/doctor-ratings/2534382/Dr-THOMAS+H.-BASCOM-Springfield-OR.html/)
@@ -739,7 +728,7 @@ Day2: went to Doctor he just checked the stitches and changed dressing. Afterwar
 Kevin Modeste is now in his place   
 [https://www.peacehealth.org/care-providers/kevin-a-modeste-md](https://www.peacehealth.org/care-providers/kevin-a-modeste-md)
 
-#### Dr Sternberg in CA {#dr-sternberg-in-ca}
+## Dr Sternberg in CA {#dr-sternberg-in-ca}
 
 Author of this paper:  
 [https://www.sciencedirect.com/science/article/pii/S1043148922000549?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1043148922000549?via%3Dihub)
@@ -747,7 +736,7 @@ Author of this paper:
 [https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/](https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/)   
 The cleft lift procedure intends to prevent recurrent pilonidal disease. In Dr. Sternberg’s last 1,300 Cleft Lift patients, only 11 required a second operation, and all were cured. Those are pretty awesome results.
 
-#### Dr Immerman in WI {#dr-immerman-in-wi}
+## Dr Immerman in WI {#dr-immerman-in-wi}
 
 [https://pilonidal.com/](https://pilonidal.com/)
 
@@ -758,7 +747,7 @@ We found that of the 700 patients, 3.4% required revision of the cleft lift (con
 
 [AMA on Reddit](https://www.reddit.com/r/pilonidalcyst/comments/19c5sri/ama_with_dr_shrager_on_thursday_4th_april_at/)
 
-#### Dr Wadie \- Cleft Lift \- US, NC {#dr-wadie---cleft-lift---us,-nc}
+## Dr Wadie \- Cleft Lift \- US, NC {#dr-wadie---cleft-lift---us,-nc}
 
 [https://www.pilonidalsurgery.org/dr-wadie](https://www.pilonidalsurgery.org/dr-wadie)
 
@@ -770,7 +759,7 @@ Some reddit posts about it:
 
 ### Europe {#europe}
 
-#### Dr. Zapotoczny \- Cleft lift \- Poland {#dr.-zapotoczny---cleft-lift---poland}
+## Dr. Zapotoczny \- Cleft lift \- Poland {#dr.-zapotoczny---cleft-lift---poland}
 
 [https://pilonidal.clinic/](https://pilonidal.clinic/)
 
@@ -783,12 +772,12 @@ Reviews
 Bascom Cleft Lift \- $3.000  
 SiLaT \- $1.500
 
-#### Germany: {#germany:}
+## Germany: {#germany:}
 
 1. [Pilonidal Sinus: Experience from 6000+ operations (pilonidalsinus-zentrum.de)](https://pilonidalsinus-zentrum.de/en/)  
 2. [Experts in pilonidal cyst \- Sinus-Pilonidalis-Zentrum Berlin](https://www.sinus-pilonidalis-zentrum.de/start-en/)
 
-#### Dr. Luigi Basso {#dr.-luigi-basso}
+## Dr. Luigi Basso {#dr.-luigi-basso}
 
 3. [Prof. Luigi Basso \- Colonproctologo riceve a Roma (colonproctologia.com)](https://www.colonproctologia.com/en/default.aspx)  
 4. [Reviews](https://www.pilonidal.org/xfforums/threads/italy-surgeons.11023/)
@@ -797,7 +786,7 @@ SiLaT \- $1.500
 
 ### UK {#uk}
 
-#### Emin Carapeti \- Cleft Lift {#emin-carapeti---cleft-lift}
+## Emin Carapeti \- Cleft Lift {#emin-carapeti---cleft-lift}
 
 Private only  
 [https://www.topdoctors.co.uk/doctor/emin-carapeti](https://www.topdoctors.co.uk/doctor/emin-carapeti)
@@ -807,7 +796,7 @@ Private only
 [Reddit Post Price](https://www.reddit.com/r/pilonidalcyst/comments/10a998i/hello_i_am_21_m_and_have_received_a_letter_saying/)  
 £4000
 
-#### Miss Asha Senapati \- Cleft Lift  {#miss-asha-senapati---cleft-lift}
+## Miss Asha Senapati \- Cleft Lift  {#miss-asha-senapati---cleft-lift}
 
 NHS and private  
 Possibly long waiting list
@@ -820,7 +809,7 @@ Possibly long waiting list
 [Surgery for pilonidal cyst: MedlinePlus Medical Encyclopedia](https://medlineplus.gov/ency/article/007591.htm)  
 You may be given medicine ([general anesthesia](https://medlineplus.gov/ency/article/007410.htm)) that keeps you asleep and pain-free. Or, you may be given medicine ([regional anesthesia](https://medlineplus.gov/ency/article/007413.htm)) that numbs you from the waist down. In rare cases, you may only be given local numbing medicine.
 
-At [PTCNJ](https://ptcnj.com/our-treatments/cleft-lift-procedure/), the cleft-lift procedure is performed in our ambulatory care center under general anesthesia.
+The cleft-lift procedure is typically performed under general anesthesia.
 
 [https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/](https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/)  
 What type of anesthesia will I have?  
@@ -844,7 +833,7 @@ Cleft lift:  $9250
 
 ### Cleft Lift {#cleft-lift-1}
 
-At [PTCNJ](https://ptcnj.com/our-treatments/cleft-lift-procedure/), the cleft-lift procedure is performed in our ambulatory care center under general anesthesia. The duration of surgery is approximately 90 minutes. The resulting wound is closed in four absorbable suture layers over a small drain. Patients are asked to rest at home for 48 hours after the procedure. The drain is removed either at home by a family member or friend, or in our Center, at approximately one week following surgery. Stress to the operative site is avoided for 3 weeks. Full healing is seen between 3 and 6 weeks.
+A cleft-lift procedure is typically performed under general anesthesia and takes approximately 90 minutes. The wound is closed in multiple absorbable suture layers over a small drain. Patients rest at home for 48 hours after the procedure. The drain is removed at approximately one week. Stress to the operative site is avoided for 3 weeks. Full healing is seen between 3 and 6 weeks.
 
 [https://www.reddit.com/r/pilonidalcyst/comments/x2861v/recommendations\_post\_cleft\_lift\_surgery/](https://www.reddit.com/r/pilonidalcyst/comments/x2861v/recommendations_post_cleft_lift_surgery/)  
 Here's a precise and orderly list of recommendations and product names mentioned in the thread:
@@ -948,23 +937,23 @@ This list covers the main recommendations and products mentioned in the thread. 
 
 [Physical Activity After Surgery \- Pilonidal Support Alliance](https://www.pilonidal.org/surgery-aftercare/physical-activity-after-surgery/)
 
-#### Sports:  {#sports:}
+## Sports:  {#sports:}
 
 Heavy weightlifting and other activities like running and jumping that tear your muscle tissues, which the body then has to heal in addition to healing the surgical wound. Physical activity is GOOD FOR YOU\! It keeps your mind active and your heart pumping oxygen into healing tissues. It also improves your outlook on life and helps you through post-surgical depression
 
-#### Swimming:  {#swimming:}
+## Swimming:  {#swimming:}
 
 Swimming – the official line on this is NO for pools and/or lakes (icky things in the water \+ open wound \= infection) and POSSIBLY for ocean. If you have an open wound, be smart. Salt water is good for wounds, but how clean is the water at your beach, really? We’ve heard some doctors give the green light for ocean swimming and some say to not risk it. The one thing all agree on is NO POOLS.
 
-#### Bike Riding:  {#bike-riding:}
+## Bike Riding:  {#bike-riding:}
 
 started riding about 30 minutes a day and added 10 minutes a week until I was back up to a full hour. What I do not recommend is bike riding on those flat granny seats on gym bikes. You need a quality bicycle saddle that is designed to keep pressure off the tailbone. If you can sit back and read the paper on the bike, the seat is no good for a Pilonidal sufferer….
 
-#### Horseback Riding:  {#horseback-riding:}
+## Horseback Riding:  {#horseback-riding:}
 
 this one is tough for Pilonidal sufferers since the pounding pressure of riding is a bad combination with a Pilonidal. Every year we hear from a few teenage girls who ride competitively and are dealing with Pilonidals. Your doctor will probably say no riding until healing is complete. After that, you may want to look into specialized cushions and Seat Mapping.
 
-#### Intimacy/Sex:  {#intimacy/sex:}
+## Intimacy/Sex:  {#intimacy/sex:}
 
 Most people usually wait for about two weeks before resuming intimate relations. It is up to you and your partner to figure out which positions work best since it depends an awful lot on where exactly your wound is located. 
 
@@ -1036,11 +1025,11 @@ The study had some limitations, like not including women and not following patie
 
 ### Nutrition {#nutrition}
 
-[Nutrition for Healing Pilonidal Surgery and Pilonidal Wounds](https://pilonidal.net/nutrition/)
+*The pilonidal.net nutrition page is no longer available. General guidance: eat protein-rich foods, take vitamin C and zinc supplements, stay hydrated, and eat high-fiber foods to avoid straining.*
 
 ## Recovery times {#recovery-times}
 
-At [PTCNJ](https://ptcnj.com/our-treatments/cleft-lift-procedure/), the cleft-lift procedure. Full healing is seen between 3 and 6 weeks.
+Full healing after a cleft-lift is typically seen between 3 and 6 weeks.
 
 ## Surgery recurrence rates {#surgery-recurrence-rates}
 
@@ -1069,7 +1058,7 @@ The overall recurrence rate was 33%, with the majority of recurrences (80%) occu
 
 ## Some stories {#some-stories}
 
-[My Pilonidal Cyst Doctor “Didn’t Believe in the Cleft-Lift”. The Story of Emma S.](https://ptcnj.com/my-pilonidal-cyst-doctor-didnt-believe-in-the-cleft-lift-the-story-of-emma-s/)
+My Pilonidal Cyst Doctor “Didn’t Believe in the Cleft-Lift”. The Story of Emma S. *(ptcnj.com link no longer available)*
 
 [https://www.reddit.com/r/pilonidalcyst/comments/n0tcv4/19ish\_days\_post\_cleft\_lift\_i\_finally\_feel\_better/](https://www.reddit.com/r/pilonidalcyst/comments/n0tcv4/19ish_days_post_cleft_lift_i_finally_feel_better/)
 
@@ -1081,7 +1070,7 @@ I had a pilonidal excision with closed wound procedure done by a general surgeon
 
 Most people stumble on the Cleft Lift after one or more failed surgeries by non experts. The good news is there’s also many people who then get a Cleft Lift and heal just fine.
 
-[https://ptcnj.com/our-treatments/non-healing-pilonidal-cystectomy-wounds/](https://ptcnj.com/our-treatments/non-healing-pilonidal-cystectomy-wounds/)  
+https://ptcnj.com/our-treatments/non-healing-pilonidal-cystectomy-wounds/ *(ptcnj.com link no longer available)*  
 All too commonly, a pilonidal patient suffers from a non-healing surgical wound, the result of a flawed midline pilonidal cystectomy by a nonspecialist. Painful, ineffective, and seemingly endless wound care treatments are the rule. School or work days are missed. The negative social impact is profound. But all hope is not lost. The sine qua non of the pilonidal surgeon is the ability to correct these wounds.  
 At PTCNJ, the revisional cleft-lift procedure can be offered to the vast majority of these patients with a very high likelihood of near-immediate success. In this procedure, the open wound, any active pilonidal disease, and most or all of the scar tissue is removed.  The cleft is re-contoured, eliminating the risk of recurrent disease. Like the index cleft-lift, the revisional cleft-lift is done in our ambulatory care center under general anesthesia. Full healing is seen by 6 weeks.
 
@@ -1092,7 +1081,7 @@ And also people that [regret the Clift Lift](https://www.pilonidal.org/xfforums/
 
 ## The psychological effects {#the-psychological-effects}
 
-[https://ptcnj.com/psychosocial-support/](https://ptcnj.com/psychosocial-support/)
+https://ptcnj.com/psychosocial-support/ *(ptcnj.com link no longer available)*
 
 In the select patient who has undergone one or more failed pilonidal operations by non-specialist(s), corrective surgery is only part of the healing process. The pilonidal surgical failure is too often interwoven with patient-blame, stigmatization, and even subtle abandonment by the provider. Unpacking the psychosocial impact of the experience shares equal if not superior importance in treating the whole patient. Only when physician, patient and/or family agree that it is warranted, our social worker will conduct a telemedicine session approximately 30 minutes in length. A full assessment of needs is conducted, and a plan to meet those needs is implemented. Recommendations range from stress-coping activities to support group participation to ongoing counseling sessions. Whatever the need, restoration of mind, body, and spirit is the ultimate goal.
 
@@ -1100,7 +1089,7 @@ In the select patient who has undergone one or more failed pilonidal operations 
 
 ### Stories {#stories}
 
-[https://ptcnj.com/our-treatments/liposuction-assisted-cleftoplasty/](https://ptcnj.com/our-treatments/liposuction-assisted-cleftoplasty/)  
+https://ptcnj.com/our-treatments/liposuction-assisted-cleftoplasty/ *(ptcnj.com link no longer available)*  
 At PTCNJ, we have begun to selectively offer liposuction-assisted cleftoplasty for patients fully healed and cured of the disease but disappointed by the anatomic change.  
 Pilonidal disease is driven by the human gluteal cleft anatomy. No cyst exists to be removed or otherwise. Patients must understand that effective cleft-lifts are permanently curative because the gluteal cleft is not only lifted but done so in a sufficiently drastic way that the anatomic change is durable for years. This change, however, is perceived by many as non-aesthetic.  
 At PTCNJ, for patients fully cured of the disease or associated surgical wounds but disappointed by the anatomic change, we have begun to selectively offer liposuction-assisted cleftoplasty. In this office \-based procedure done under local anesthesia, we judiciously recreate the natural gluteal contour, in a way which aligns with the cosmetic desires of the patient but does not increase the possibility of recurrent pilonidal disease. No recovery period is generally required.  
@@ -1171,7 +1160,7 @@ The disease is not caused by ingrown hairs.
 
 ## Sitting {#sitting}
 
-The section on pillows.
+See the cushion recommendations above for options that reduce pressure while sitting.
 
 [Reddit Post 1](https://www.reddit.com/r/pilonidalcyst/comments/15srls0/best_cushion_to_use_with_infected_pilonidal_cyst/)  
 [ComfiLife Gel Enhanced Seat Cushion – Office Chair Cushion – Non-Slip Gel & Memory Foam Coccyx Cushion for Tailbone Pain \- Desk Chair Car Seat Cushion Driving \- Sciatica & Back Pain Relief (Black)](https://www.amazon.com/dp/B08HPQVJMW?ref=ppx_pop_mob_ap_share&th=1)
@@ -1179,8 +1168,6 @@ The section on pillows.
 [Reddit Post2](https://www.reddit.com/r/pilonidalcyst/comments/13e1b2q/cushion_suggestions_for_work_chair/)  
 [https://clevive.com/kit/pilonidal-sinus-cushion/](https://clevive.com/kit/pilonidal-sinus-cushion/)  
 [Amazon.com : Everlasting Comfort Doctor Recommended Memory Foam Seat Cushions for Office Chairs \- HSA FSA Eligible Tailbone Pain Relief Cushion, Sciatica & Back Support, Office Chair Cushion & Car Seat Cushion](https://www.amazon.com/dp/B01EBDV9BU?ref=ppx_pop_mob_ap_share&th=1)
-
-# 
 
 ## Comfy clothes {#comfy-clothes}
 
@@ -1214,11 +1201,11 @@ Pilonidal cysts affect women differently from men in several important ways. Wom
 
 12. #  FAQ: Frequently Asked Questions {#faq:-frequently-asked-questions}
 
-#### Do I NEED to get surgery? {#do-i-need-to-get-surgery?}
+## Do I NEED to get surgery? {#do-i-need-to-get-surgery?}
 
-See X Section. Obviously it depends on the situation, but most people report considerably increased quality of life after getting the right surgery. If you had one occurrence, it is likely to come back and long term management of pilonidal cysts can be quite intensive.
+It depends on the situation, but most people report considerably increased quality of life after getting the right surgery. If you had one occurrence, it is likely to come back and long term management of pilonidal cysts can be quite intensive.
 
-#### Should I open the cyst by myself? {#should-i-open-the-cyst-by-myself?}
+## Should I open the cyst by myself? {#should-i-open-the-cyst-by-myself?}
 
 People have different opinions.
 
@@ -1229,39 +1216,39 @@ Same say YES especially on reddit. It makes the pain manageable.
 
 Even if you don’t open the cyst, you can expedite the process with sitz baths and warm compresses.
 
-#### It really hurts, what do I do? {#it-really-hurts,-what-do-i-do?}
+## It really hurts, what do I do? {#it-really-hurts,-what-do-i-do?}
 
 See X section. In summary, if the pain is manageable, go see a doctor, in the meantime diluted tea tree oil and hot compresses. If the pain is crazy, the ER is your best option, ask for the cyst to be drained.
 
-#### Does it ever disappear by itself? {#does-it-ever-disappear-by-itself?}
+## Does it ever disappear by itself? {#does-it-ever-disappear-by-itself?}
 
 Rarely. For 60% of people it only happens once (data is not super reliable), but when it comes back it often comes back several times and gets worse over time. Some doctors say it’s a lot less likely to appear after 40yo.
 
-#### How much does laser hair removal help? {#how-much-does-laser-hair-removal-help?}
+## How much does laser hair removal help? {#how-much-does-laser-hair-removal-help?}
 
-See X Section. While commonly accepted knowledge that pilonidal cysts are caused by hair, some experts disagree that’s the main cause. Research shows that shaving can even make it worse.
+While commonly accepted knowledge that pilonidal cysts are caused by hair, some experts disagree that’s the main cause. Research shows that shaving can even make it worse.
 
-#### When do I see a doctor? {#when-do-i-see-a-doctor?}
+## When do I see a doctor? {#when-do-i-see-a-doctor?}
 
-If it hurts a lot, if you have an infection ongoing (fever, red and hot skin, itchiness). If you cyst is silen but you are ready for surgery.
+If it hurts a lot, if you have an infection ongoing (fever, red and hot skin, itchiness). If your cyst is silent but you are ready for surgery.
 
-#### Can I have surgery if the cyst is currently infected? {#can-i-have-surgery-if-the-cyst-is-currently-infected?}
+## Can I have surgery if the cyst is currently infected? {#can-i-have-surgery-if-the-cyst-is-currently-infected?}
 
 No, most surgeons will give you a cycle of antibiotics and perform the surgery when the cyst is silent again.
 
-#### What does taking antibiotics do? {#what-does-taking-antibiotics-do?}
+## What does taking antibiotics do? {#what-does-taking-antibiotics-do?}
 
 Reduce the inflammation and allows you to proceed with surgical options.
 
-#### How do I keep future flare ups as low as possible? {#how-do-i-keep-future-flare-ups-as-low-as-possible?}
+## How do I keep future flare ups as low as possible? {#how-do-i-keep-future-flare-ups-as-low-as-possible?}
 
 People have different opinions on the matter. Some common advice is: limit sitting, lose weight, move, keep the area clean and dry, especially after workouts.
 
-#### Should I wait to see if it comes back or address it immediately? {#should-i-wait-to-see-if-it-comes-back-or-address-it-immediately?}
+## Should I wait to see if it comes back or address it immediately? {#should-i-wait-to-see-if-it-comes-back-or-address-it-immediately?}
 
 For most people it only happens once, but if it does come back it can get pretty bad. Your choice what to do with this info.
 
-#### How do I find a surgeon? How do I know they are skilled? {#how-do-i-find-a-surgeon?-how-do-i-know-they-are-skilled?}
+## How do I find a surgeon? How do I know they are skilled? {#how-do-i-find-a-surgeon?-how-do-i-know-they-are-skilled?}
 
 [https://www.topdoctors.co.uk/medical-articles/the-most-successful-pilonidal-sinus-surgical-procedures](https://www.topdoctors.co.uk/medical-articles/the-most-successful-pilonidal-sinus-surgical-procedures)
 
@@ -1270,7 +1257,7 @@ Unfortunately, despite the growing evidence, a significant proportion of general
    
 Not surprisingly, there is a high frequency of recurrent PS disease or non-healing open wounds after surgery in the UK and worldwide. These cause significant problems for young and otherwise active, healthy individuals. This negatively affects their work, relationships and quality of life.
 
-[Is my Pilonidal Cyst Doctor Trained?](https://ptcnj.com/patient-resources/is-my-pilonidal-cyst-doctor-trained/)  
+Is my Pilonidal Cyst Doctor Trained? *(ptcnj.com link no longer available)*  
 PTCNJ Surgeon Checklist  
 The doctor plans to perform your surgery alone, without the aid of a plastic surgeon.  
 The doctor dedicates at least 50% of their practice to pilonidal cyst disease.  
@@ -1286,14 +1273,14 @@ The doctor does not make referrals to a local wound care center.
 [https://www.pilonidal.org/treatments/doctors-hospitals/](https://www.pilonidal.org/treatments/doctors-hospitals/)  
 While we tend to recommend C/R surgeons, a General Surgeon can do just as good a job – providing they’ve stayed up on the current techniques and theories or are willing to learn. 
 
-We have a [surgeon search section](https://www.pilonidal.org/treatments/doctors-hospitals/treatments/find-a-surgeon/) with places to search for doctors. Sometimes you have to interview several surgeons until you find one that makes you comfortable. Listen to your gut, if you don’t feel good about a doctor, don’t go back. Never go back to a doctor who makes you feel dirty, demeaned, or like a annoyance because you were asking questions. Good doctors are thrilled when their patients take an active part in their treatment.  
+We have a [surgeon search section](https://www.pilonidal.org/treatments/doctors-hospitals/treatments/find-a-surgeon/) with places to search for doctors. Sometimes you have to interview several surgeons until you find one that makes you comfortable. Listen to your gut, if you don’t feel good about a doctor, don’t go back. Never go back to a doctor who makes you feel dirty, demeaned, or like an annoyance because you were asking questions. Good doctors are thrilled when their patients take an active part in their treatment.  
 It has been my experience (and that of others) that you can tell an awful lot about a doctor by his/her staff. A great doctor would never put up with a rude or incompetent staff. The doctor sets the tone at his/her practice and the staff follows where the doctor leads. Careful evaluation of both a doctor and their staff will tell you an enormous amount about what type of care you can expect.
 
 [https://pilonidal.com/blog/2022/05/how-should-a-patient-determine-their-best-options-for-treatment-of-pilonidal-disease/](https://pilonidal.com/blog/2022/05/how-should-a-patient-determine-their-best-options-for-treatment-of-pilonidal-disease/)
 
 [https://pilonidal.com/cleft-lift-awareness/](https://pilonidal.com/cleft-lift-awareness/)
 
-#### Is it a Pilonidal cyst or an anal fistula? What else could it be? {#is-it-a-pilonidal-cyst-or-an-anal-fistula?-what-else-could-it-be?}
+## Is it a Pilonidal cyst or an anal fistula? What else could it be? {#is-it-a-pilonidal-cyst-or-an-anal-fistula?-what-else-could-it-be?}
 
 [https://www.reddit.com/r/pilonidalcyst/comments/19c5sri/comment/ky1uyd6/?utm\_source=share\&utm\_medium=web3x\&utm\_name=web3xcss\&utm\_term=1\&utm\_content=share\_button](https://www.reddit.com/r/pilonidalcyst/comments/19c5sri/comment/ky1uyd6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)  
 If there is a skin opening and pits are seen in the midline, this would now be considered pilonidal sinus. The distinction between this and anal fistula is CRITICAL, especially if MR is suggesting connection to the anal canal. 
@@ -1304,7 +1291,7 @@ We’ve heard stories on the forums of doctors misdiagnosing Pilonidals as Anal 
 [https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/](https://pilonidalsurgery.com/sternberg-clinic-patient-resources/pilonidal-surgery-faq/)  
 Some patients with pilonidal disease are told that they have a condition called coccydynia. Coccydynia, or tailbone pain, is caused by trauma to the tailbone (also termed the coccyx). The injury can be acute, from a fall, or chronic, from repeatedly sitting on hard surfaces or riding a horse, for instance.
 
-#### How many people suffer from this condition? {#how-many-people-suffer-from-this-condition?}
+## How many people suffer from this condition? {#how-many-people-suffer-from-this-condition?}
 
 [https://www.asc-abstracts.org/abs2018/86-06-recurrence-of-pilonidal-disease-our-best-is-not-good-enough/](https://www.asc-abstracts.org/abs2018/86-06-recurrence-of-pilonidal-disease-our-best-is-not-good-enough/)  
 1% of people 
@@ -1322,19 +1309,19 @@ Some patients with pilonidal disease are told that they have a condition called 
 
     
 
-### Sinus tracts have some risk of developing cancer if untreated for decades {#sinus-tracts-have-some-risk-of-developing-cancer-if-untreated-for-decades}
+## Sinus tracts have some risk of developing cancer if untreated for decades {#sinus-tracts-have-some-risk-of-developing-cancer-if-untreated-for-decades}
 
-[https://ptcnj.com/glossary-of-pilonidal-terms/](https://ptcnj.com/glossary-of-pilonidal-terms/)
+*Note: The PTCNJ website (ptcnj.com) is no longer available.*
 
 [https://www.pilonidal.org/what-is-pilonidal-disease/faq-diagnosing/](https://www.pilonidal.org/what-is-pilonidal-disease/faq-diagnosing/)  
 Very rarely. As of 1999, fewer than 50 cases have been reported and those were mostly in people who had refused treatment for many, many years. When you undergo surgery, your doctor will probably send the tissue to the lab for testing just to be sure.
 
-### Non specialists cutting the midline can make a mess, see a specialist asap {#non-specialists-cutting-the-midline-can-make-a-mess,-see-a-specialist-asap}
+## Non specialists cutting the midline can make a mess, see a specialist asap {#non-specialists-cutting-the-midline-can-make-a-mess,-see-a-specialist-asap}
 
 [https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/](https://www.pilonidal.org/what-is-pilonidal-disease/diagnosing-pilonidal/)  
 We’ve heard stories on the forums of doctors misdiagnosing Pilonidals as Anal Fistulas, Anal Abscesses, Boils, Sebaceous Cysts, Hemorrhoids, bruised tailbones or even Sciatica.
 
-### Addressing it early is the best bet {#addressing-it-early-is-the-best-bet}
+## Addressing it early is the best bet {#addressing-it-early-is-the-best-bet}
 
 14. # Online Support {#online-support}
 
@@ -1352,19 +1339,19 @@ Any surgeon can do
 
 16. # Some wilder theories {#some-wilder-theories}
 
-### [Pilonidal Sinus And Prolonged Sexual Stimulation: The Poisonous Hormones](https://ispub.com/IJS/8/1/9790) {#pilonidal-sinus-and-prolonged-sexual-stimulation:-the-poisonous-hormones}
+## [Pilonidal Sinus And Prolonged Sexual Stimulation: The Poisonous Hormones](https://ispub.com/IJS/8/1/9790) {#pilonidal-sinus-and-prolonged-sexual-stimulation:-the-poisonous-hormones}
 
 This paper proposes an unconventional theory about pilonidal sinus (PNS), suggesting it's caused by prolonged high levels of sex hormones, particularly androgens, in the body. The authors claim these hormones overstimulate special sweat glands in the buttock area, leading to excessive sweating. They theorize that the sweat's electrolytes attract loose hair into the gland openings, causing inflammation and sinus formation. The study presents a conservative treatment approach based on this theory, advising patients to avoid prolonged sexual stimulation to reduce hormone levels. In a small group of 21 patients treated this way, they report 85.6% success rate. The authors extend this hormonal theory to other conditions like carpal tunnel syndrome and deep vein thrombosis. However, it's crucial to note that this theory and treatment approach are not widely accepted in the medical community and lack substantial scientific evidence to support their claims.
 
-### German New Medicine {#german-new-medicine}
+## German New Medicine {#german-new-medicine}
 
 [https://learninggnm.com/SBS/documents/skin.html](https://learninggnm.com/SBS/documents/skin.html)  
 A pilonidal cyst is a boil that develops on the tailbone near the cleft of the buttocks as the area where the [attack conflict](https://learninggnm.com/SBS/documents/skin.html#Corium_Skin_BC) was registered. Interestingly, the condition was widespread in the United States Army during the Second World War. It was termed “jeep riders’ disease” because a large number of soldiers who were being hospitalized for it rode in Jeeps. The prolonged rides in the bumpy vehicles must have triggered an “attack” conflict.
 
-### Infrared Light treatment {#infrared-light-treatment}
+## Infrared Light treatment {#infrared-light-treatment}
 
 [https://www.reddit.com/r/pilonidalcyst/comments/wear1j/ive\_successfully\_found\_a\_novel\_way\_to\_treat\_our/](https://www.reddit.com/r/pilonidalcyst/comments/wear1j/ive_successfully_found_a_novel_way_to_treat_our/)  
-https://www.amazon.com/Light-Therapy-Infrared-Heat-TheraLamp/dp/B01K87EBMM\#
+[TheraLamp Infrared Heat Lamp on Amazon](https://www.amazon.com/Light-Therapy-Infrared-Heat-TheraLamp/dp/B01K87EBMM)
 
 17. # Conclusion {#conclusion}
 
@@ -1377,7 +1364,7 @@ Happy stories
 
 ## Images {#images}
 
-[https://ptcnj.com/patient-resources/photo-gallery/](https://ptcnj.com/patient-resources/photo-gallery/)
+https://ptcnj.com/patient-resources/photo-gallery/ *(ptcnj.com link no longer available)*
 
 [https://www.pilonidal.org/what-is-pilonidal-disease/pictures/](https://www.pilonidal.org/what-is-pilonidal-disease/pictures/)
 
@@ -1484,9 +1471,9 @@ This article from the Pilonidal Support Alliance explains how pilonidal cysts de
 
 The article emphasizes that pilonidal disease is primarily a dermatological issue caused by breached skin barriers in the natal cleft area, allowing bacterial infection to occur.
 
-#### [Surgery for pilonidal cyst: MedlinePlus Medical Encyclopedia](https://medlineplus.gov/ency/article/007591.htm) {#surgery-for-pilonidal-cyst:-medlineplus-medical-encyclopedia}
+## [Surgery for pilonidal cyst: MedlinePlus Medical Encyclopedia](https://medlineplus.gov/ency/article/007591.htm) {#surgery-for-pilonidal-cyst:-medlineplus-medical-encyclopedia}
 
-[Pilonidal Treatment Center of New Jersey](https://ptcnj.com/)
+Pilonidal Treatment Center of New Jersey *(ptcnj.com link no longer available)*
 
 ## Papers {#papers}
 
@@ -1724,7 +1711,7 @@ This presentation by Dr. John Bascom focuses on the treatment of pilonidal disea
 
 The presentation emphasizes the importance of understanding the disease process, early intervention for simple cases, and appropriate surgical techniques for complex cases to achieve long-term healing.
 
-#### [Pilonidal Library \- Pilonidal Support Alliance](https://www.pilonidal.org/what-is-pilonidal-disease/pilonidal-library/) {#pilonidal-library---pilonidal-support-alliance}
+## [Pilonidal Library \- Pilonidal Support Alliance](https://www.pilonidal.org/what-is-pilonidal-disease/pilonidal-library/) {#pilonidal-library---pilonidal-support-alliance}
 
 List of papers (last updated in 2016\)
 
