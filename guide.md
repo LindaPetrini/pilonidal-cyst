@@ -6,6 +6,10 @@ A pilonidal cyst — more accurately called a pilonidal abscess — forms in the
 
 [Pilonidal Disease Fact Sheet](https://www.pilonidal.org/what-is-pilonidal-disease/pilonidal-disease-fact-sheet/)
 
+### How common is it? {#how-common-is-it}
+
+More common than most people think. Estimates vary widely depending on how you count — about 26 per 100,000 people are diagnosed each year, roughly 70,000 new cases per year in the US alone. Some studies put the lifetime prevalence as high as 1–5% of the population. The numbers are hard to pin down because many people manage flare-ups at home without ever seeing a doctor, and the condition is significantly underreported due to embarrassment. It primarily affects young adults aged 16–26, and males are diagnosed about 2–4 times more often than females (though the gap may partly reflect reporting bias). If you have this — you are far from alone.
+
 ## Why this guide {#why-this-guide}
 
 After spending hundreds of hours on the internet learning about this condition, it's painfully obvious that most of the useful knowledge comes from people who have suffered through hell due to their doctors' ignorance. There seem to be a handful of experts sharing their opinions on best practices, and a hoard of outdated knowledge being taught to doctors. This routinely leads people through several failed operations, wounds that don't heal for months on end, more expensive procedures, and the painful realization that it was all avoidable by learning more about the condition first. But of course, we all learn to trust doctors until something goes wrong.
@@ -171,6 +175,21 @@ Not everyone gets one, but some things make you more likely to:
 8. **Trauma**: An injury to the tailbone area can sometimes be the trigger.  
      
 9. **Other Skin Conditions**: If you're prone to acne, hidradenitis suppurativa, or other follicular occlusion conditions, you may be at higher risk.
+
+10. **Ehlers-Danlos Syndrome (EDS)**: If you have EDS or suspect you might, pay attention. People with connective tissue disorders — particularly hypermobile EDS (hEDS) — appear to be at significantly higher risk for pilonidal disease. The fragile, stretchy skin and impaired wound healing that come with EDS make the natal cleft more vulnerable, and recovery from surgery can be slower and more complicated. EDS is widely underdiagnosed, so if pilonidal disease runs alongside other symptoms, it's worth looking into.
+
+**Common signs of EDS that often go unrecognized:**
+* Joint hypermobility (double-jointed, frequent dislocations or subluxations)
+* Skin that's unusually soft, stretchy, or bruises easily
+* Chronic pain in joints or muscles
+* Slow or abnormal wound healing, wide or atrophic scars
+* Frequent sprains or injuries from normal activities
+* Fatigue that doesn't match your activity level
+* Digestive issues (IBS-like symptoms, gastroparesis)
+* Dizziness or fainting when standing (dysautonomia/POTS)
+* Family history of hypermobility or "being flexible"
+
+Many people with EDS spend years bouncing between specialists before getting diagnosed. If several of these sound familiar — especially hypermobility plus skin issues plus poor healing — bring it up with your doctor or ask for a referral to a geneticist or rheumatologist.
 
 ### Common Misconceptions {#common-misconceptions}
 
