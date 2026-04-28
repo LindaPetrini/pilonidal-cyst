@@ -55,9 +55,18 @@
     <h3>Stay Updated</h3>
     <p>Get the guide as a PDF and receive updates when new information is added.</p>
 
-    <div id="download-pdf">
-      <!-- Buttondown email form placeholder — Linda will configure -->
-      <p><em>Email signup coming soon — check back for the PDF download.</em></p>
+    <div id="download-pdf" class="email-signup">
+      <form
+        action="https://buttondown.com/api/emails/embed-subscribe/lindapetrini"
+        method="post"
+        class="signup-form"
+      >
+        <div class="form-row">
+          <input type="email" name="email" id="bd-email" placeholder="Your email address" required>
+          <input type="submit" value="Get the PDF" class="btn btn-primary">
+        </div>
+        <p class="form-note">You'll receive the guide as a PDF plus updates when new info is added.</p>
+      </form>
     </div>
 
     <div id="donate" class="footer-cta">
