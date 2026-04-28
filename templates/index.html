@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Understanding Pilonidal Cysts: A Comprehensive Guide</title>
+  <meta name="description" content="A comprehensive, patient-written guide to pilonidal cysts — symptoms, treatments, surgery options, recovery, and emotional support.">
+  <meta property="og:title" content="Understanding Pilonidal Cysts: A Comprehensive Guide">
+  <meta property="og:description" content="Everything you need to know about pilonidal cysts, from someone who's been through it.">
+  <meta property="og:type" content="article">
+  <link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div>
+      <div class="site-title">Understanding Pilonidal Cysts</div>
+      <div class="site-subtitle">A comprehensive guide from someone who's been through it</div>
+    </div>
+    <button class="nav-toggle" aria-label="Toggle navigation">&#9776; Contents</button>
+    <div class="header-cta">
+      <a href="#download-pdf" class="btn btn-primary">Download PDF</a>
+      <a href="#donate" class="btn btn-donate">Donate</a>
+    </div>
+  </div>
+</header>
+
+<div class="sidebar-overlay"></div>
+
+<div class="page-layout">
+  <nav class="sidebar" aria-label="Table of contents">
+    <ul class="sidebar-nav">
+      {% for item in toc %}
+      <li>
+        <a href="#{{ item.anchor }}" class="toc-h{{ item.level }}">{{ item.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <main class="main-content">
+    <div class="disclaimer">
+      <strong>Medical Disclaimer:</strong> This guide is written by a patient, not a medical professional.
+      It is intended for informational purposes only and should not replace professional medical advice.
+      Always consult a qualified healthcare provider for diagnosis and treatment.
+    </div>
+
+    {{ content }}
+  </main>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <h3>Stay Updated</h3>
+    <p>Get the guide as a PDF and receive updates when new information is added.</p>
+
+    <div id="download-pdf">
+      <!-- Buttondown email form placeholder — Linda will configure -->
+      <p><em>Email signup coming soon — check back for the PDF download.</em></p>
+    </div>
+
+    <div id="donate" class="footer-cta">
+      <!-- PayPal donate button placeholder — Linda will configure -->
+      <a href="#" class="btn btn-donate">Support This Guide</a>
+    </div>
+
+    <div class="footer-disclaimer">
+      This guide is provided for informational purposes only and does not constitute medical advice.
+      The author is a patient sharing personal experience and community-sourced information.
+      Always consult a qualified healthcare provider before making treatment decisions.
+    </div>
+    <div class="footer-byline">
+      Written with care by Linda Petrini
+    </div>
+  </div>
+</footer>
+
+<script src="static/main.js"></script>
+</body>
+</html>

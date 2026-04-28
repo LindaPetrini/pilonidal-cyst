@@ -1,0 +1,74 @@
+@page {
+  size: A4;
+  margin: 2cm 2.5cm;
+  @bottom-center {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: -apple-system, sans-serif;
+    font-size: 9pt;
+    color: #999;
+  }
+}
+
+body {
+  font-family: 'Georgia', serif;
+  font-size: 11pt;
+  line-height: 1.6;
+  color: #222;
+}
+
+h1 {
+  font-size: 20pt;
+  margin: 1.5em 0 0.5em;
+  page-break-after: avoid;
+  border-bottom: 1pt solid #ccc;
+  padding-bottom: 0.3em;
+}
+h2 {
+  font-size: 14pt;
+  margin: 1.2em 0 0.4em;
+  page-break-after: avoid;
+  color: #4a6b5b;
+}
+h3 {
+  font-size: 12pt;
+  margin: 1em 0 0.3em;
+  page-break-after: avoid;
+}
+
+p { margin-bottom: 0.6em; orphans: 3; widows: 3; }
+
+a { color: #4a6b5b; text-decoration: underline; }
+
+img { max-width: 100%; }
+
+blockquote {
+  border-left: 2pt solid #4a6b5b;
+  padding-left: 1em;
+  margin: 0.8em 0;
+  color: #555;
+}
+
+.pdf-header {
+  text-align: center;
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 2pt solid #4a6b5b;
+}
+.pdf-header h1 {
+  font-size: 24pt;
+  border: none;
+  margin-bottom: 0.3em;
+}
+.pdf-header p {
+  font-size: 11pt;
+  color: #666;
+}
+
+.pdf-disclaimer {
+  background: #fef3e5;
+  border: 1pt solid #f0d4a8;
+  padding: 0.8em 1em;
+  margin: 1.5em 0;
+  font-size: 9pt;
+  color: #7a5d2e;
+}
