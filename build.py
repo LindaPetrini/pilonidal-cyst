@@ -11,6 +11,14 @@ from weasyprint import HTML
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 BUILD_DIR = os.path.join(BASE_DIR, "build")
 GUIDE_PATH = os.path.join(BASE_DIR, "guide.md")
+SITE_URL = "https://pilonidal.lindapetrini.com/"
+# Umami website ID for this site. Empty = no tracking tag. Must be this site's own ID.
+UMAMI_WEBSITE_ID = ""
+SITEMAP_XML = """<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>{site_url}</loc></url>
+</urlset>
+"""
 
 
 def extract_toc(md_text):
@@ -55,9 +63,15 @@ def build():
 
     # Build web page
     template = env.get_template("index.html")
-    page_html = template.render(content=content_html, toc=toc)
+    page_html = template.render(
+        content=content_html, toc=toc, site_url=SITE_URL, umami_website_id=UMAMI_WEBSITE_ID
+    )
     with open(os.path.join(BUILD_DIR, "index.html"), "w") as f:
         f.write(page_html)
+
+    # Build sitemap
+    with open(os.path.join(BUILD_DIR, "sitemap.xml"), "w") as f:
+        f.write(SITEMAP_XML.format(site_url=SITE_URL))
 
     # Build PDF
     pdf_template = env.get_template("pdf.html")
@@ -82,6 +96,7 @@ def build():
 
     print(f"Built: {BUILD_DIR}/index.html")
     print(f"Built: {BUILD_DIR}/pilonidal-cyst-guide.pdf")
+    print(f"Built: {BUILD_DIR}/sitemap.xml")
 
 
 if __name__ == "__main__":
